@@ -14,7 +14,7 @@ print (frutas[-1])
 print (frutas[-2])
 print (frutas[-3])
 
-# .apppend -> inserção no final
+# .append -> inserção no final
 frutas.append("pera") 
 print (frutas)
 
